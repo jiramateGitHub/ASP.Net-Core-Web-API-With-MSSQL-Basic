@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "BPO_APIContext"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "BillPaymentOnlineContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "AuthenticationContext"
+    }
+  }
+}
